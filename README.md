@@ -1,3 +1,1 @@
-# pedagogy
-
-### [Projects here](https://github.com/Esukhia/pedagogy/projects)
+# [Pedagogy Projects](https://github.com/Esukhia/pedagogy/projects)
